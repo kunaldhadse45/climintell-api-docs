@@ -1,0 +1,138 @@
+/**
+ * Custom CSS for ClimIntell API Documentation
+ */
+
+/* Brand Colors */
+:root {
+  --climintell-blue: #3b82f6;
+  --climintell-dark: #1e40af;
+  --climintell-light: #60a5fa;
+}
+
+/* Hero Section */
+.hero {
+  background: linear-gradient(135deg, var(--climintell-dark) 0%, var(--climintell-blue) 100%);
+  padding: 4rem 0;
+}
+
+.hero__title {
+  font-size: 3rem;
+  color: white;
+}
+
+.hero__subtitle {
+  font-size: 1.5rem;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+/* Code Blocks */
+.theme-code-block {
+  margin: 1.5rem 0;
+}
+
+/* API Endpoint Badges */
+.api-endpoint {
+  display: inline-block;
+  background: #f3f4f6;
+  padding: 0.25rem 0.75rem;
+  border-radius: 0.25rem;
+  font-family: 'Monaco', 'Courier New', monospace;
+  font-size: 0.9rem;
+  color: #1f2937;
+  border-left: 3px solid var(--climintell-blue);
+}
+
+/* Tables */
+table {
+  width: 100%;
+  margin: 1.5rem 0;
+  border-collapse: collapse;
+}
+
+table th {
+  background: #f9fafb;
+  font-weight: 600;
+}
+
+table td, table th {
+  padding: 0.75rem;
+  border: 1px solid #e5e7eb;
+}
+
+/* Admonitions (Info boxes) */
+.admonition {
+  margin: 1.5rem 0;
+  padding: 1rem;
+  border-left: 4px solid var(--climintell-blue);
+  border-radius: 0.5rem;
+}
+
+.admonition-info {
+  background-color: #eff6ff;
+}
+
+.admonition-warning {
+  background-color: #fef3c7;
+  border-left-color: #f59e0b;
+}
+
+.admonition-danger {
+  background-color: #fee2e2;
+  border-left-color: #ef4444;
+}
+
+/* Navbar */
+.navbar {
+  background-color: white;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+}
+
+.navbar__logo img {
+  height: 32px;
+}
+
+/* Footer */
+.footer {
+  background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
+  color: white;
+}
+
+.footer__link-item {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.footer__link-item:hover {
+  color: var(--climintell-light);
+}
+
+/* Sidebar */
+.menu__link--active {
+  background-color: var(--climintell-blue);
+  color: white !important;
+}
+
+.menu__link:hover {
+  background-color: rgba(59, 130, 246, 0.1);
+}
+
+/* Buttons */
+.button--primary {
+  background-color: var(--climintell-blue);
+  border-color: var(--climintell-blue);
+}
+
+.button--primary:hover {
+  background-color: var(--climintell-dark);
+  border-color: var(--climintell-dark);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .hero__title {
+    font-size: 2rem;
+  }
+  
+  .hero__subtitle {
+    font-size: 1.2rem;
+  }
+}
