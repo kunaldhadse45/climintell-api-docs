@@ -121,7 +121,7 @@ Header: X-API-Key: climintell_windzone_YOUR_KEY
 | TPI | > 20 m |
 | Valley Depth | > 75 m |
 | Wind Exposure | > 30 m |
-| Slope | < 12° |
+| Slope | `\< 12° |
 | Min Patch Size | 15 ha |
 
 **Typical Results:** 2-8% of area suitable
@@ -134,7 +134,7 @@ Header: X-API-Key: climintell_windzone_YOUR_KEY
 | TPI | > 15 m |
 | Valley Depth | > 50 m |
 | Wind Exposure | > 20 m |
-| Slope | < 15° |
+| Slope | `\< 15° |
 | Min Patch Size | 10 ha |
 
 **Typical Results:** 5-15% of area suitable
@@ -147,7 +147,7 @@ Header: X-API-Key: climintell_windzone_YOUR_KEY
 | TPI | > 10 m |
 | Valley Depth | > 30 m |
 | Wind Exposure | > 15 m |
-| Slope | < 20° |
+| Slope | `\< 20° |
 | Min Patch Size | 5 ha |
 
 **Typical Results:** 10-25% of area suitable
@@ -165,7 +165,7 @@ Header: X-API-Key: climintell_windzone_YOUR_KEY
     "tpi_threshold": ">15 m",
     "valley_depth_threshold": ">50 m",
     "exposure_threshold": ">20 m",
-    "slope_threshold": "<15°",
+    "slope_threshold": "`\<1`5°",
     "min_patch_size": "10 ha"
   },
   "terrain_suitability": {
@@ -211,7 +211,7 @@ Header: X-API-Key: climintell_windzone_YOUR_KEY
     },
     "slope": {
       "name": "Slope Constraint",
-      "threshold": "<15°",
+      "threshold": "`\<1`5°",
       "mean_value": 2.8,
       "min_value": 0.0,
       "max_value": 18.3,
@@ -255,7 +255,7 @@ Header: X-API-Key: climintell_windzone_YOUR_KEY
 | Excellent | ≥15% | High | Install 3-5 met towers, 12-month validation |
 | Good | 5-14% | Moderate | Install 2-3 met towers, 6-12 month validation |
 | Moderate | 2-4% | Low | Consider 1-2 met towers, evaluate alternatives |
-| Limited | <2% | Not Recommended | Explore other locations |
+| Limited | ``\<2``% | Not Recommended | Explore other locations |
 
 ## Data Sources
 - Elevation: SRTM 90m Digital Elevation Model

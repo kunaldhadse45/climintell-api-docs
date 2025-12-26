@@ -160,7 +160,7 @@ Header: X-API-Key: climintell_volcanowatch_YOUR_KEY
 
 | Status | SO2 Peak | Meaning | Action |
 |--------|----------|---------|--------|
-| Normal | <0.0015 | Background levels | Routine monitoring |
+| Normal | ``\<0``.0015 | Background levels | Routine monitoring |
 | ELEVATED | 0.0015-0.005 | Weak signal | Continue monitoring |
 | MODERATE ALERT | 0.005-0.010 | Increased unrest | Increase frequency |
 | HIGH ALERT | 0.010-0.020 | Strong degassing | Activate protocols |

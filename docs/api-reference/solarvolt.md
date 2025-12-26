@@ -145,8 +145,8 @@ Header: X-API-Key: climintell_solarvolt_YOUR_KEY
     "suitability_percent": 68.8,
     "unsuitable_area_km2": 1112.67,
     "constraints_applied": [
-      "Slope (<10°)",
-      "Elevation (<3000 m)",
+      "Slope (`\<1`0°)",
+      "Elevation (`\<3`000 m)",
       "Land Cover (exclude urban/water/forest)",
       "Minimum patch size (5 ha)"
     ],
@@ -206,7 +206,7 @@ Header: X-API-Key: climintell_solarvolt_YOUR_KEY
 | Very Good | 1600-1800 | Very suitable |
 | Good | 1400-1600 | Suitable |
 | Moderate | 1200-1400 | Marginally suitable |
-| Poor | <1200 | Not recommended |
+| Poor | ``\<1``200 | Not recommended |
 
 ## Data Sources
 - Solar Radiation: ERA5-Land Surface Solar Radiation

@@ -98,7 +98,7 @@ Header: X-API-Key: climintell_stubblefire_YOUR_KEY
 **Burn Severity (dNBR):**
 - Delta Normalized Burn Ratio
 - Range: -1 to +1
-- <0.1 = Unburned
+- ``\<0``.1 = Unburned
 - 0.1-0.25 = Low severity
 - 0.25-0.45 = Moderate severity
 - >0.45 = High severity
@@ -201,7 +201,7 @@ Header: X-API-Key: climintell_stubblefire_YOUR_KEY
 
 | Severity | Fire Area % | Fire Count | Action Required |
 |----------|-------------|------------|-----------------|
-| Minimal | <0.1% | <10 | Routine monitoring |
+| Minimal | ``\<0`.1% | ``\<1`0 | Routine monitoring |
 | Low | 0.1-2% | 10-100 | Monitor locations |
 | Moderate | 2-5% | 100-500 | Engage with farmers |
 | High | 5-10% | 500-2000 | Enforcement + equipment |
