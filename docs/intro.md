@@ -13,19 +13,18 @@ ClimIntell provides production-ready APIs for satellite-based geospatial analysi
 
 1. [Request API Access](mailto:climintell@gmail.com) - Get your API key
 2. [Review Authentication](/docs/authentication) - Learn how to authenticate
-3. [Choose Your API](/docs/category/api-reference) - Explore our 7 APIs
 4. Start building!
 
 ## 🌟 Available APIs
 
 ### 🌾 [AgriZone API](/docs/api-reference/agrizone)
 Crop suitability analysis using climate, soil, terrain, and land cover data.
-- **Coverage:** India (primary), Global
+- **Coverage:** Global
 - **Use Cases:** Crop planning, land assessment, agricultural policy
 
 ### 🌫️ [SafeAir API](/docs/api-reference/safeair)
 Air quality monitoring using Aerosol Optical Depth (AOD) measurements.
-- **Coverage:** India/South Asia (primary), Global
+- **Coverage:** Global
 - **Use Cases:** Health advisories, urban planning, environmental monitoring
 
 ### ☀️ [SolarVolt API](/docs/api-reference/solarvolt)
@@ -99,7 +98,7 @@ We offer **custom pricing tailored to your needs** - whether you're a researcher
 
 - [Getting Started Guide](/docs/getting-started) - Setup and first request
 - [Authentication](/docs/authentication) - API key usage and security
-- [API Reference](/docs/category/api-reference) - Detailed endpoint documentation
+- [API Reference](docs/api-reference) - Detailed endpoint documentation
 - [Rate Limits](/docs/rate-limits) - Understanding quotas
 - [Error Handling](/docs/errors) - Common errors and solutions
 

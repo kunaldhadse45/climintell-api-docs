@@ -136,3 +136,28 @@ table td, table th {
     font-size: 1.2rem;
   }
 }
+
+/* Fix sidebar text contrast */
+.menu__link {
+  color: #1f2937 !important;
+}
+
+.menu__link--active {
+  background-color: var(--climintell-blue);
+  color: white !important;
+}
+
+.menu__link:hover {
+  background-color: rgba(59, 130, 246, 0.1);
+  color: #1f2937 !important;
+}
+
+/* Light theme sidebar */
+[data-theme='light'] .menu__link {
+  color: #1f2937 !important;
+}
+
+/* Dark theme sidebar */
+[data-theme='dark'] .menu__link {
+  color: #e5e7eb !important;
+}

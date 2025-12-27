@@ -11,13 +11,13 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://climintell.github.io',
+  url: 'https://kunaldhadse45.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
-  baseUrl: '/api-docs/',
+  baseUrl: '/climintell-api-docs/',
 
   // GitHub pages deployment config
-  organizationName: 'climintell',
-  projectName: 'api-docs',
+  organizationName: 'kunaldhadse45',
+  projectName: 'climintell-api-docs',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
@@ -36,7 +36,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/climintell/api-docs/tree/main/',
+          editUrl: 'https://github.com/kunaldhadse45/climintell-api-docs/tree/main/',
         },
         blog: false,
         theme: {
@@ -69,7 +69,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/climintell/api-docs',
+            href: 'https://github.com/kunaldhadse45/climintell-api-docs',
             label: 'GitHub',
             position: 'right',
           },
@@ -125,7 +125,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/climintell/api-docs',
+                href: 'https://github.com/kunaldhadse45/climintell-api-docs',
               },
             ],
           },
