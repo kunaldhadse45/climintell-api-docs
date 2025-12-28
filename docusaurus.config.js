@@ -90,8 +90,6 @@ const config = {
                 to: '/docs/authentication',
               },
               {
-                label: 'API Reference',
-                to: '/docs/category/api-reference',
               },
             ],
           },
