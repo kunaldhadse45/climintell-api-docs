@@ -246,7 +246,7 @@ Yes! Contact us if you need multiple keys for:
 ## Next Steps
 
 - [Make your first request](/docs/getting-started)
-- [Explore API endpoints](/docs/category/api-reference)
+- [Explore API endpoints](/docs/api-reference)
 - [Understand rate limits](/docs/rate-limits)
 - [Review error codes](/docs/errors)
 

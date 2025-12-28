@@ -398,6 +398,6 @@ If you encounter persistent errors:
 
 - [Review rate limits](/docs/rate-limits)
 - [Contact support](/docs/support)
-- [API Reference](/docs/category/api-reference)
+- [API Reference](/docs/api-reference)
 
 **Need help debugging?** Email us at **contact@climintell.com** with your request_id.

@@ -216,6 +216,6 @@ Rate limits reset daily at 00:00 UTC. Your limit is for a rolling 24-hour period
 
 - [Review error codes](/docs/errors)
 - [Contact support](/docs/support)
-- [Explore API reference](/docs/category/api-reference)
+- [Explore API reference](/docs/api-reference)
 
 Need a custom rate limit? **Email contact@climintell.com**
