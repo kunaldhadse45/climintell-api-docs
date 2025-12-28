@@ -53,4 +53,4 @@ Crop residue burning detection using multi-sensor analysis.
 New to ClimIntell APIs? Start here:
 1. [Getting Started Guide](/docs/getting-started)
 2. [Authentication](/docs/authentication)
-3. [Request API Access](mailto:contact@climintell.com)
+3. [Request API Access](mailto:climintell@gmail.com)

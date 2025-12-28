@@ -388,7 +388,7 @@ If you encounter persistent errors:
 1. **Check Documentation:** Verify your parameters match the API specification
 2. **Review Request:** Validate JSON format and required fields
 3. **Check Status:** Visit [status.climintell.com](https://climintell.com) (if available)
-4. **Contact Support:** Email contact@climintell.com with:
+4. **Contact Support:** Email climintell@gmail.com with:
    - Request ID
    - Full error response
    - Request payload (without sensitive data)
@@ -400,4 +400,4 @@ If you encounter persistent errors:
 - [Contact support](/docs/support)
 - [API Reference](/docs/category/api-reference)
 
-**Need help debugging?** Email us at **contact@climintell.com** with your request_id.
+**Need help debugging?** Email us at **climintell@gmail.com** with your request_id.

@@ -20,7 +20,7 @@ climintell_safeair_x9y8z7w6v5u4t3s2
 
 ## Obtaining API Keys
 
-1. **Request Access:** Email contact@climintell.com with:
+1. **Request Access:** Email climintell@gmail.com with:
    - Organization name
    - Use case description
    - Expected request volume
@@ -192,7 +192,7 @@ Contact us immediately if you suspect a key has been compromised.
   "status": "error",
   "error": {
     "code": "ACCOUNT_SUSPENDED",
-    "message": "Your account has been suspended. Contact contact@climintell.com"
+    "message": "Your account has been suspended. Contact support@climintell.com"
   }
 }
 ```
@@ -204,7 +204,7 @@ API keys are subject to rate limits based on your subscription tier. See [Rate L
 ## Key Revocation
 
 To revoke a compromised key:
-1. Email contact@climintell.com immediately
+1. Email climintell@gmail.com immediately
 2. Specify which key to revoke
 3. Request a replacement key
 4. Update your applications
@@ -226,7 +226,7 @@ Keys are tied to your organization, not individuals. However, we recommend:
 
 ### What happens if my key is exposed publicly?
 
-Contact us immediately at contact@climintell.com. We'll:
+Contact us immediately at climintell@gmail.com. We'll:
 1. Revoke the compromised key
 2. Audit recent usage
 3. Issue a replacement key
@@ -250,4 +250,4 @@ Yes! Contact us if you need multiple keys for:
 - [Understand rate limits](/docs/rate-limits)
 - [Review error codes](/docs/errors)
 
-Need help? Email **contact@climintell.com**
+Need help? Email **climintell@gmail.com**

@@ -31,7 +31,7 @@ git add .
 git commit -m "Initial commit: ClimIntell API documentation"
 
 # Add remote (replace with your GitHub URL)
-git remote add origin https://github.com/kunaldhadse45/climintell-api-docs.git
+git remote add origin https://github.com/climintell/api-docs.git
 
 # Push to main branch
 git branch -M main
@@ -127,7 +127,7 @@ git add .
 git commit -m "Initial commit: ClimIntell API documentation"
 
 # Add remote
-git remote add origin https://github.com/kunaldhadse45/climintell-api-docs.git
+git remote add origin https://github.com/climintell/api-docs.git
 
 # Push
 git branch -M main
@@ -409,7 +409,7 @@ Before going live:
 - Support: https://support.github.com
 
 **ClimIntell Documentation:**
-- Email: contact@climintell.com
+- Email: climintell@gmail.com
 
 ---
 

@@ -29,7 +29,7 @@ ClimIntell transforms satellite data into actionable intelligence for agricultur
 
 1. **Request API Access**
    ```
-   Email: contact@climintell.com
+   Email: climintell@gmail.com
    Include: Organization, use case, expected volume
    ```
 
@@ -81,7 +81,7 @@ docs/
 
 ```bash
 # Clone repository
-git clone https://github.com/kunaldhadse45/climintell-api-docs.git
+git clone https://github.com/climintell/api-docs.git
 cd api-docs
 
 # Install dependencies
@@ -121,8 +121,8 @@ We welcome contributions to improve our documentation!
 
 Found an error or have a suggestion? 
 
-1. **Open an Issue:** [GitHub Issues](https://github.com/kunaldhadse45/climintell-api-docs/issues)
-2. **Email Us:** contact@climintell.com
+1. **Open an Issue:** [GitHub Issues](https://github.com/climintell/api-docs/issues)
+2. **Email Us:** climintell@gmail.com
 
 ### Submitting Changes
 
@@ -151,20 +151,20 @@ This documentation is proprietary and confidential. The ClimIntell API and assoc
 **Incubated At:** BITS Pilani PIEDS
 
 **Contact:**
-- Email: contact@climintell.com
+- Email: climintell@gmail.com
 - Website: [climintell.com](https://climintell.com)
 - Documentation: [climintell.github.io/api-docs](https://climintell.github.io/api-docs)
 
 ## 🔗 Quick Links
 
 - [Main Website](https://climintell.com)
-- [Request API Access](mailto:contact@climintell.com)
-- [Report Issues](https://github.com/kunaldhadse45/climintell-api-docs/issues)
+- [Request API Access](mailto:climintell@gmail.com)
+- [Report Issues](https://github.com/climintell/api-docs/issues)
 - [Contributing Guide](CONTRIBUTING.md)
 
 ## 💬 Support
 
-- **Email:** contact@climintell.com
+- **Email:** climintell@gmail.com
 - **Response Time:** 24-48 hours
 - **Business Hours:** Mon-Fri, 9 AM - 6 PM IST
 

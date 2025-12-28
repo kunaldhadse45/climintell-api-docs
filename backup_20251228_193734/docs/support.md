@@ -9,7 +9,7 @@ Get help with ClimIntell APIs through our support channels.
 ## Contact Information
 
 ### Email Support
-**Primary Contact:** contact@climintell.com
+**Primary Contact:** climintell@gmail.com
 
 **Response Time:**
 - Critical issues (API down): Within 4 hours
@@ -77,7 +77,7 @@ Thanks,
 ### API Access & Billing
 
 **How do I get an API key?**
-Email contact@climintell.com with your organization details, use case, and expected volume. We'll provide a custom quote and API keys within 24-48 hours.
+Email climintell@gmail.com with your organization details, use case, and expected volume. We'll provide a custom quote and API keys within 24-48 hours.
 
 **What's your pricing model?**
 We offer custom pricing tailored to your needs. Factors include request volume, products used, support level, and commercial vs. academic use.
@@ -125,7 +125,7 @@ Currently, all APIs are synchronous. Contact us if you need webhook support for 
 
 Have an idea for improvement? We'd love to hear it!
 
-**Send feature requests to:** contact@climintell.com
+**Send feature requests to:** climintell@gmail.com
 
 **Include:**
 - Detailed description of the feature
@@ -137,7 +137,7 @@ Have an idea for improvement? We'd love to hear it!
 
 Found a bug? Help us fix it!
 
-**Report bugs to:** contact@climintell.com
+**Report bugs to:** climintell@gmail.com
 
 **Include:**
 - Steps to reproduce
@@ -151,8 +151,8 @@ Found a bug? Help us fix it!
 Found an error in the documentation or have suggestions?
 
 **Documentation Issues:**
-- Email: contact@climintell.com
-- GitHub: [github.com/kunaldhadse45/climintell-api-docs/issues](https://github.com/kunaldhadse45/climintell-api-docs/issues)
+- Email: climintell@gmail.com
+- GitHub: [github.com/climintell/api-docs/issues](https://github.com/climintell/api-docs/issues)
 
 ## Service Status
 
@@ -171,7 +171,7 @@ Browse example implementations in various programming languages.
 ## Emergency Contact
 
 For critical production issues affecting your business:
-- **Email:** contact@climintell.com (mark as URGENT)
+- **Email:** climintell@gmail.com (mark as URGENT)
 - **Expected Response:** Within 4 hours during business hours
 
 ## Office Address
@@ -210,9 +210,9 @@ BITS Pilani, Rajasthan, India
 ## Feedback
 
 We value your feedback! Let us know how we're doing:
-- **Email:** contact@climintell.com
+- **Email:** climintell@gmail.com
 - **Satisfaction Surveys:** Sent quarterly to active users
 
 ---
 
-**Need help?** Don't hesitate to reach out at **contact@climintell.com** 📧
+**Need help?** Don't hesitate to reach out at **climintell@gmail.com** 📧

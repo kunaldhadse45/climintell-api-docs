@@ -8,7 +8,7 @@ This guide will help you make your first API request to ClimIntell in minutes.
 
 ## Prerequisites
 
-- API key (request at contact@climintell.com)
+- API key (request at climintell@gmail.com)
 - Basic knowledge of REST APIs
 - Command line tool (cURL) or HTTP client
 
@@ -26,7 +26,7 @@ Let's analyze crop suitability for rice in Punjab using the AgriZone API.
 
 ### Step 1: Get Your API Key
 
-Contact us at **contact@climintell.com** with:
+Contact us at **climintell@gmail.com** with:
 - Your organization name
 - Use case description
 - Expected request volume
@@ -271,4 +271,4 @@ Now that you've made your first request:
 3. [Understand rate limits](/docs/rate-limits)
 4. [Review error codes](/docs/errors)
 
-Need help? Email us at **contact@climintell.com**
+Need help? Email us at **climintell@gmail.com**

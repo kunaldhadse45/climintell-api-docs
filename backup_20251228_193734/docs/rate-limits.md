@@ -21,7 +21,7 @@ Rate limits vary based on your subscription tier and are measured in requests pe
 *Subject to fair use policy. Contact us for custom high-volume arrangements.
 
 :::info Custom Pricing
-All tiers use custom pricing tailored to your specific needs. Contact contact@climintell.com for a quote based on your:
+All tiers use custom pricing tailored to your specific needs. Contact climintell@gmail.com for a quote based on your:
 - Request volume
 - Products used
 - Support level
@@ -152,7 +152,7 @@ def check_rate_limit(response):
 
 ## Rate Limit Increases
 
-Need higher limits? Contact us at contact@climintell.com with:
+Need higher limits? Contact us at climintell@gmail.com with:
 - Current tier and usage
 - Desired new limit
 - Use case justification
@@ -195,7 +195,7 @@ You'll receive a `429 Too Many Requests` error. Your API key will work again whe
 
 ### Can I purchase additional requests mid-cycle?
 
-Yes! Contact us at contact@climintell.com. We can:
+Yes! Contact us at climintell@gmail.com. We can:
 - Temporarily increase your limit
 - Upgrade your tier immediately
 - Provide a one-time quota boost
@@ -218,4 +218,4 @@ Rate limits reset daily at 00:00 UTC. Your limit is for a rolling 24-hour period
 - [Contact support](/docs/support)
 - [Explore API reference](/docs/category/api-reference)
 
-Need a custom rate limit? **Email contact@climintell.com**
+Need a custom rate limit? **Email climintell@gmail.com**

@@ -329,7 +329,7 @@ with ThreadPoolExecutor(max_workers=3) as executor:
     results = list(executor.map(analyze_location, locations))
 ```
 
-**Note:** Batch processing is subject to rate limits. Contact contact@climintell.com for bulk analysis needs or webhook integration.
+**Note:** Batch processing is subject to rate limits. Contact support@climintell.com for bulk analysis needs or webhook integration.
 
 
 ## Example Usage

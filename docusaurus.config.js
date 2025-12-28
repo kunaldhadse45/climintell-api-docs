@@ -121,7 +121,7 @@ const config = {
               },
               {
                 label: 'Request API Access',
-                href: 'mailto:climintell@gmail.com',
+                href: 'mailto:contact@climintell.com',
               },
               {
                 label: 'GitHub',

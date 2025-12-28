@@ -11,7 +11,7 @@ ClimIntell provides production-ready APIs for satellite-based geospatial analysi
 
 ## 🚀 Quick Start
 
-1. [Request API Access](mailto:contact@climintell.com) - Get your API key
+1. [Request API Access](mailto:climintell@gmail.com) - Get your API key
 2. [Review Authentication](/docs/authentication) - Learn how to authenticate
 4. Start building!
 
@@ -75,7 +75,7 @@ All algorithms validated against peer-reviewed research and ground truth data.
 | **Authentication** | API Key (Header) |
 | **Rate Limits** | Custom per tier |
 | **Timeout** | 180 seconds |
-| **Support** | Email: contact@climintell.com |
+| **Support** | Email: climintell@gmail.com |
 
 ## 💰 Pricing
 
@@ -85,23 +85,23 @@ We offer **custom pricing tailored to your needs** - whether you're a researcher
 - Support level required
 - Commercial vs academic use
 
-[Contact us](mailto:contact@climintell.com) for a custom quote.
+[Contact us](mailto:climintell@gmail.com) for a custom quote.
 
 ## 🆘 Support
 
-- **Email:** contact@climintell.com
+- **Email:** climintell@gmail.com
 - **Documentation:** You're reading it!
-- **GitHub:** [github.com/kunaldhadse45/climintell-api-docs](https://github.com/kunaldhadse45/climintell-api-docs)
+- **GitHub:** [github.com/climintell/api-docs](https://github.com/climintell/api-docs)
 - **Website:** [climintell.com](https://climintell.com)
 
 ## 📚 Next Steps
 
 - [Getting Started Guide](/docs/getting-started) - Setup and first request
 - [Authentication](/docs/authentication) - API key usage and security
-- [API Reference](/docs/api-reference) - Detailed endpoint documentation
+- [API Reference](docs/api-reference) - Detailed endpoint documentation
 - [Rate Limits](/docs/rate-limits) - Understanding quotas
 - [Error Handling](/docs/errors) - Common errors and solutions
 
 ---
 
-**Ready to get started?** [Request your API key](mailto:contact@climintell.com) today!
+**Ready to get started?** [Request your API key](mailto:climintell@gmail.com) today!
