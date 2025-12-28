@@ -11,37 +11,37 @@ Complete technical documentation for all ClimIntell APIs.
 
 Click on any API below to view complete documentation:
 
-### 🌾 [AgriZone API](agrizone)
+### 🌾 [AgriZone API](/docs/api-reference/agrizone)
 Crop suitability analysis using climate, soil, terrain, and land cover data.
 - **Coverage:** Global
 - **Use Cases:** Crop planning, land assessment, agricultural policy
 
-### 🌫️ [SafeAir API](safeair)
+### 🌫️ [SafeAir API](/docs/api-reference/safeair)
 Air quality monitoring using Aerosol Optical Depth (AOD) measurements.
 - **Coverage:** Global
 - **Use Cases:** Health advisories, urban planning, environmental monitoring
 
-### ☀️ [SolarVolt API](solarvolt)
+### ☀️ [SolarVolt API](/docs/api-reference/solarvolt)
 Solar power potential assessment for site selection and capacity planning.
 - **Coverage:** Global
 - **Use Cases:** Solar farm planning, rooftop assessments, energy policy
 
-### 💨 [WindZone API](windzone)
+### 💨 [WindZone API](/docs/api-reference/windzone)
 Inland wind power screening using topographic enhancement analysis.
 - **Coverage:** Global
 - **Use Cases:** Wind farm site screening, preliminary feasibility studies
 
-### ☀️ [UVSafe API](uvsafe)
+### ☀️ [UVSafe API](/docs/api-reference/uvsafe)
 UV radiation exposure and skin health risk assessment.
 - **Coverage:** Global
 - **Use Cases:** Health apps, tourism, outdoor activity planning
 
-### 🌋 [VolcanoWatch API](volcanowatch)
+### 🌋 [VolcanoWatch API](/docs/api-reference/volcanowatch)
 Volcanic degassing monitoring for eruption precursor detection.
 - **Coverage:** Global (all active volcanoes)
 - **Use Cases:** Disaster preparedness, aviation safety, research
 
-### 🔥 [StubbleFire API](stubblefire)
+### 🔥 [StubbleFire API](/docs/api-reference/stubblefire)
 Crop residue burning detection using multi-sensor analysis.
 - **Coverage:** India (Punjab, Haryana, UP, Delhi)
 - **Use Cases:** Environmental enforcement, air quality management, policy

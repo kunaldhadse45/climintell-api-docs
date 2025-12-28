@@ -36,7 +36,7 @@ ClimIntell transforms satellite data into actionable intelligence for agricultur
 2. **Review Documentation**
    - [Getting Started Guide](https://climintell.github.io/api-docs/docs/getting-started)
    - [Authentication](https://climintell.github.io/api-docs/docs/authentication)
-   - [API Reference](https://climintell.github.io/api-docs/docs/category/api-reference)
+   - [API Reference](https://climintell.github.io/api-docs/docs/api-reference)
 
 3. **Make Your First Request**
    ```bash

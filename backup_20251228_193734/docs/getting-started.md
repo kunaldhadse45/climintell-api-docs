@@ -266,7 +266,7 @@ Check your parameters before sending requests to avoid errors.
 
 Now that you've made your first request:
 
-1. [Explore all 7 APIs](/docs/category/api-reference)
+1. [Explore all 7 APIs](/docs/api-reference)
 2. [Learn about authentication](/docs/authentication)
 3. [Understand rate limits](/docs/rate-limits)
 4. [Review error codes](/docs/errors)

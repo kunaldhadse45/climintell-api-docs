@@ -202,7 +202,7 @@ BITS Pilani, Rajasthan, India
 ## Resources
 
 - [Getting Started](/docs/getting-started)
-- [API Reference](/docs/category/api-reference)
+- [API Reference](/docs/api-reference)
 - [Authentication Guide](/docs/authentication)
 - [Rate Limits](/docs/rate-limits)
 - [Error Codes](/docs/errors)
